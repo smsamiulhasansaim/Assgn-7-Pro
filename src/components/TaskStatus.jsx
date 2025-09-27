@@ -1,4 +1,3 @@
-// src/components/TaskStatus.jsx
 const TaskStatus = ({ activeTasks, resolvedTasks, onCompleteTask }) => {
   return (
     <div className="w-full lg:w-80 samiul-task-status-container">
